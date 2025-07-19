@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(73, 63, 63);
+    color: aqua;
+    
+}
+
+    #joke {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            width: 100vh;
+            font-size: 24px;
+            font-family: sans-serif;
+            background-color: #d498cb;
+            color: rgb(130, 11, 13);
+            border-radius: 100px;
+            margin-left: 420px;
+            
+        }
